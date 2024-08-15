@@ -21,6 +21,6 @@ ID de Binance Pay: 371 413 327
 
 Por ultimo, puedes ver mi canal de youtube donde puedes ver mis videos y tambien puedes seguirme en mi instagram y en mi cuenta de X.
 
-X: Pyrex64
-Instagram: @pyrex.oficial
-YouTube: @Pyrex64
+- X: [@Pyrex64](https://x.com/Pyrex64/)
+- Instagram: [@pyrex.oficial](https://instagram.com/pyrex.oficial?igsh=bW1lNWQxZ3Bta29p)
+- YouTube: [@Pyrex64](https://youtube.com/@pyrex64?si=BzHN-FPbVIvPlZ-)
