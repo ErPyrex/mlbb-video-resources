@@ -10,7 +10,7 @@ Me di la tarea de hacer este pack de recursos para que se les haga la vida mas f
 
 ## ¿Como descargo el pack?
 
-Seguraemente ni tienes idea de que es GitHub y como se descarga aqui, bueno es facil, dale al boton "Code" y luego escoge "Download ZIP"
+Seguramente ni tienes idea de que es GitHub y como se descarga aqui, bueno es facil, dale al boton "Code" y luego escoge "Download ZIP"
 Si no pues mas sencillo, haz click [aqui](https://github.com/ErPyrex/mlbb-video-resources/archive/refs/heads/main.zip) y se empezara a descargar.
 
 ### ¿Quieres aportar?
